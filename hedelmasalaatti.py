@@ -20,5 +20,6 @@ while i < 1:
     
     print("Edullisin: ", x)
     print("Kalliin: ", y)
+	print("Hedelmä")
 	
-	
+	     
